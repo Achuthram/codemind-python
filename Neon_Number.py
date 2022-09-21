@@ -1,6 +1,6 @@
 n=int(input())
-p=n*n
 s=0
+p=n*n
 for i in str(p):
     i=int(i)
     s+=i
